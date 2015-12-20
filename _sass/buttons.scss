@@ -9,7 +9,7 @@
 }
 
 button, .button {
-  @include button-color($logo-color);
+  @include button-color($medium-blue-green);
 
   border-style: solid;
   border-width: 1px;
