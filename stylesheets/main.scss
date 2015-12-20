@@ -1,0 +1,23 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+@import 'tomorrow';
+@import 'typography';
+
+.container {
+  margin: 2em auto;
+  max-width: 600px;
+}
+
+header {
+  text-align: center;
+}
+
+.logo {
+  max-width: 300px;
+  -webkit-box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.4);
+  -moz-box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.4);
+  box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.4);
+}

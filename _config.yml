@@ -1,0 +1,25 @@
+title: Dinosaur.js
+description: "Some kind of JavaScript conference ostensibly coming to Colorado at some point in 2016."
+url: "http://dinosaurjs.org/"
+
+baseurl: ''
+permalink: /:title
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+exclude: [
+  'Gemfile',
+  'Gemfile.lock',
+  'README.md',
+  'LICENSE',
+  'CNAME'
+]
+
+assets:
+  root_url: '/assets'
+
+images:
+  root_url: '/assets/images'
