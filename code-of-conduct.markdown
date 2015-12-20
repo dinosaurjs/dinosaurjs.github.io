@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Code of Conduct"
+title: Code of Conduct
 ---
 
 Dinosaur.js follows the [JSConf Code of Conduct][coc] and expects all speakers and attendees to do the same.
