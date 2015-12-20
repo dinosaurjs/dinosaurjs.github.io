@@ -1,0 +1,24 @@
+#mc_embed_signup {
+
+  .asterisk {
+    color: rgb(239, 194, 108);
+  }
+
+  .indicates-required {
+    font-size: 0.6em;
+    text-align: right;
+    margin-top: -0.5em;
+  }
+
+  .mc-field-group {
+    margin-bottom: 1em;
+    label {
+      display: block;
+    }
+    input {
+      width: 100%;
+      display: block;
+    }
+  }
+
+}

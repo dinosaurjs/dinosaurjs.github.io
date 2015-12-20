@@ -1,11 +1,19 @@
 ---
-# this ensures Jekyll reads the file to be transformed into CSS later
-# only Main files contain this front matter, not partials.
+# Main style files. Everything else is located in _sass.
 ---
 
 @import 'tomorrow';
 @import 'typography';
 @import 'colors';
+@import 'buttons';
+@import 'mailchimp';
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
 
 .container {
   color: $text-color;
@@ -25,7 +33,7 @@ header {
 }
 
 a {
-  color: $darker-color;
+  color: $dark-green;
   text-decoration: none;
   border-bottom: 3px solid lighten($logo-color, 10);
   &:hover {
