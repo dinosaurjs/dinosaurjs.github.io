@@ -19,10 +19,16 @@ html {
   color: $text-color;
   margin: 2em auto;
   max-width: 600px;
+  @media (max-width:600px){
+    width: 80%;
+  }
 }
 
 header {
   text-align: center;
+  img {
+    max-width: 100%;
+  }
   a {
     border-bottom: none;
     color: $text-color;
@@ -49,6 +55,9 @@ a {
   -webkit-box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.4);
   -moz-box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.4);
   box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.4);
+  @media (max-width:600px){
+    max-width: 100%;
+  }
 }
 
 .footer-links {
@@ -60,5 +69,8 @@ a {
       margin: 0.5em;
       content: ' - ';
     }
+  }
+  @media (max-width:600px){
+    font-size: 0.6em;
   }
 }
