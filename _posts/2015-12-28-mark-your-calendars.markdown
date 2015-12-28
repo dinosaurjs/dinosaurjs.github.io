@@ -14,7 +14,7 @@ Dinosaur.js is a not-for-profit, community-driven JavaScript conference in Denve
 
 ## What's in a Name?
 
-So, why is it even called Dinosaur.js? Good question. [Dinosaur Ridge](https://en.wikipedia.org/wiki/Dinosaur_Ridge) is just outside of Denver. It's where the Apatosaurus, Diplodocus, Stegosaurus, and Allosaurus (née Brontosaurus) were first found. There are also a bunch of Iguanadon footprints there too. I'll repeat this, because it bears repeating: this is where the Stegosaurus lived.
+So, why is it even called Dinosaur.js? Good question. [Dinosaur Ridge](https://en.wikipedia.org/wiki/Dinosaur_Ridge) is just outside of Denver. It's where the Allosaurus, Diplodocus, Stegosaurus, and Apatosaurus (née Brontosaurus) were first found. There are also a bunch of Iguanadon footprints there too. I'll repeat this, because it bears repeating: this is where the Stegosaurus lived.
 
 ## More to Come
 
