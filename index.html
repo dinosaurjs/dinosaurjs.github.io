@@ -1,10 +1,18 @@
 ---
 layout: page
-title: A JavaScript Conference in Denver, Colorado
+title: JavaScript Conference in Denver, Colorado on June 24, 2016
 ---
 
 <p class="teaser">
-  A <strong>non-profit</strong>, <strong>community-driven</strong> JavaScript conference ostensibly coming to Denver, Colorado at some point in the early summer of 2016. One day. One track.
+  A <strong>non-profit</strong>, <strong>community-driven</strong> JavaScript conference happening in Denver, Colorado on <strong>Friday, June 24, 2016</strong>. One day. One track.
 </p>
 
+<h3>Announcements</h3>
 
+<ul class="announcements">
+  {% for post in site.posts %}
+  <li class="announcement">
+    <a href="{{post.url}}">{{post.title}}</a>
+  </li>
+  {% endfor %}
+</ul>
