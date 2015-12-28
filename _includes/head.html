@@ -22,7 +22,7 @@
 
 {% if page.date %}
   <meta content='{{ site.url }}{{ page.url }}' property='og:url' />
-  <meta content="{{ page.content | strip_html | strip_newlines | truncate: 120 }}" property='og:description' />
+  <meta content="{{ page.title }} - {{ page.content | strip_html | strip_newlines | truncate: 120 }}" property='og:description' />
   <meta content="article" property="og:type" />
 {% else %}
   <meta content='{{ site.url }}' property='og:url' />

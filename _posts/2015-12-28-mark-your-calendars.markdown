@@ -4,8 +4,6 @@ title: Mark Your Calendars
 date: 2015-12-28T11:00:00-07:00
 ---
 
-# Mark Your Calendars
-
 Remember that calendar of cats doing yoga poses that your great aunt got you last week? Go ahead, open it up, and draw a little T-Rex on **Friday, June 24, 2016.** We're going to have a conference.
 
 You're more than welcome—nay, _encouraged_—to go ahead and share the news with your friends and loved ones. In order to make it easier for you, we made [this incredible link that you can click on to create a tweet announcing the good news](https://twitter.com/home?status=I%20just%20found%20out%20that%20%40dinosaur_js%20is%20going%20to%20be%20on%20Friday,%20June%2024,%202016%20in%20Denver,%20Colorado!%20http%3A//dinosaurjs.org/).
