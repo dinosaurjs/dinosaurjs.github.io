@@ -1,0 +1,13 @@
+---
+layout: post
+title: Dinosaur.js 2016 Call for Proposals is Now Open
+date: 2016-02-01T6:00:00-07:00
+---
+
+Hello friends and future friends,
+
+We're pleased as punch to announce that the [Dinosaur.js Call for Proposals](http://speak.dinosaurjs.org/events/dinosaurjs-2016) is now open and will remain open until late into the evening of **Monday, March 14, 2016**.
+
+[http://speak.dinosaurjs.org](http://speak.dinosaurjs.org/)
+
+As a quick—and super important—reminder, the conference itself will be on **Friday, June 24, 2016**.
